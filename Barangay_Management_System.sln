@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Barangay_Management_System", "Barangay_Management_System.csproj", "{C48244B8-20F2-43F8-B30F-A3A0C4408EEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C48244B8-20F2-43F8-B30F-A3A0C4408EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C48244B8-20F2-43F8-B30F-A3A0C4408EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C48244B8-20F2-43F8-B30F-A3A0C4408EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C48244B8-20F2-43F8-B30F-A3A0C4408EEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1563E9F7-E074-420A-A8EB-1BF572B2A12B}
+	EndGlobalSection
+EndGlobal
